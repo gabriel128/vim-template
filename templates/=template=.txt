@@ -1,7 +1,3 @@
 %FFILE%
 
-:Author: %USER%
-:Email: %MAIL%
-:Date: %FDATE%
-
 %HERE%
